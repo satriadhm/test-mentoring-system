@@ -7080,8 +7080,8 @@
     },
     "mentoring-system/1.0.0": {
       "type": "project",
-      "path": "../mentoring-system/mentoring-system.csproj",
-      "msbuildProject": "../mentoring-system/mentoring-system.csproj"
+      "path": "../Mentoring System/mentoring-system.csproj",
+      "msbuildProject": "../Mentoring System/mentoring-system.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7094,24 +7094,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\glori\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\things to do\\dev\\unit-test-mentor\\test-mentoring-system.csproj",
+      "projectUniqueName": "D:\\semester 4\\Konstruksi Perangkat Lunak\\test-mentoring-system\\test-mentoring-system.csproj",
       "projectName": "test-mentoring-system",
-      "projectPath": "D:\\things to do\\dev\\unit-test-mentor\\test-mentoring-system.csproj",
-      "packagesPath": "C:\\Users\\glori\\.nuget\\packages\\",
-      "outputPath": "D:\\things to do\\dev\\unit-test-mentor\\obj\\",
+      "projectPath": "D:\\semester 4\\Konstruksi Perangkat Lunak\\test-mentoring-system\\test-mentoring-system.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\semester 4\\Konstruksi Perangkat Lunak\\test-mentoring-system\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\glori\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7125,8 +7120,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\things to do\\dev\\mentoring-system\\mentoring-system.csproj": {
-              "projectPath": "D:\\things to do\\dev\\mentoring-system\\mentoring-system.csproj"
+            "D:\\semester 4\\Konstruksi Perangkat Lunak\\Mentoring System\\mentoring-system.csproj": {
+              "projectPath": "D:\\semester 4\\Konstruksi Perangkat Lunak\\Mentoring System\\mentoring-system.csproj"
             }
           }
         }
@@ -7174,7 +7169,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
