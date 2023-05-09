@@ -1,0 +1,5 @@
+C:\test-mentoring-system\obj\Debug\net6.0\test-mentoring-system.csproj.AssemblyReference.cache
+C:\test-mentoring-system\obj\Debug\net6.0\test-mentoring-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\test-mentoring-system\obj\Debug\net6.0\test-mentoring-system.AssemblyInfoInputs.cache
+C:\test-mentoring-system\obj\Debug\net6.0\test-mentoring-system.AssemblyInfo.cs
+C:\test-mentoring-system\obj\Debug\net6.0\test-mentoring-system.csproj.CoreCompileInputs.cache
