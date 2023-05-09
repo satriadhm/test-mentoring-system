@@ -1,0 +1,5 @@
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\0 Tubes Mentoring System\test-mentoring-system\obj\Debug\net6.0\test-mentoring-system.csproj.AssemblyReference.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\0 Tubes Mentoring System\test-mentoring-system\obj\Debug\net6.0\test-mentoring-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\0 Tubes Mentoring System\test-mentoring-system\obj\Debug\net6.0\test-mentoring-system.AssemblyInfoInputs.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\0 Tubes Mentoring System\test-mentoring-system\obj\Debug\net6.0\test-mentoring-system.AssemblyInfo.cs
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\0 Tubes Mentoring System\test-mentoring-system\obj\Debug\net6.0\test-mentoring-system.csproj.CoreCompileInputs.cache

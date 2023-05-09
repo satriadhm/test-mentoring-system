@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {
+    "net6.0-windows10.0.22621": {
       "coverlet.collector/3.1.2": {
         "type": "package",
         "build": {
@@ -7085,7 +7085,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": [
+    "net6.0-windows10.0.22621": [
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
@@ -7094,39 +7094,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\glori\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Haikal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\things to do\\dev\\unit-test-mentor\\test-mentoring-system.csproj",
+      "projectUniqueName": "C:\\Users\\Haikal\\Documents\\0.1 Tugas Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\0 Tubes Mentoring System\\test-mentoring-system\\test-mentoring-system.csproj",
       "projectName": "test-mentoring-system",
-      "projectPath": "D:\\things to do\\dev\\unit-test-mentor\\test-mentoring-system.csproj",
-      "packagesPath": "C:\\Users\\glori\\.nuget\\packages\\",
-      "outputPath": "D:\\things to do\\dev\\unit-test-mentor\\obj\\",
+      "projectPath": "C:\\Users\\Haikal\\Documents\\0.1 Tugas Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\0 Tubes Mentoring System\\test-mentoring-system\\test-mentoring-system.csproj",
+      "packagesPath": "C:\\Users\\Haikal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Haikal\\Documents\\0.1 Tugas Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\0 Tubes Mentoring System\\test-mentoring-system\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\glori\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Haikal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows"
+        "net6.0-windows10.0.22621.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net6.0-windows10.0.22621": {
+          "targetAlias": "net6.0-windows10.0.22621.0",
           "projectReferences": {
-            "D:\\things to do\\dev\\mentoring-system\\mentoring-system.csproj": {
-              "projectPath": "D:\\things to do\\dev\\mentoring-system\\mentoring-system.csproj"
+            "C:\\Users\\Haikal\\Documents\\0.1 Tugas Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\0 Tubes Mentoring System\\mentoring-system\\mentoring-system.csproj": {
+              "projectPath": "C:\\Users\\Haikal\\Documents\\0.1 Tugas Kuliah\\Semester 4\\Konstruksi Perangkat Lunak\\0 Tubes Mentoring System\\mentoring-system\\mentoring-system.csproj"
             }
           }
         }
@@ -7138,8 +7133,8 @@
       }
     },
     "frameworks": {
-      "net6.0-windows7.0": {
-        "targetAlias": "net6.0-windows",
+      "net6.0-windows10.0.22621": {
+        "targetAlias": "net6.0-windows10.0.22621.0",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
@@ -7169,8 +7164,17 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.22621.28, 10.0.22621.28]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Windows.SDK.NET.Ref": {
             "privateAssets": "all"
           }
         },
