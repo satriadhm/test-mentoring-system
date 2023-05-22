@@ -42,7 +42,7 @@ namespace unit_test_mentor
 
         // Test case Vidya
         //[TestMethod]
-        public void IsUsernameValid_Should_Return_False_For_Username_With_Uppercase_Letter()
+       /* public void IsUsernameValid_Should_Return_False_For_Username_With_Uppercase_Letter()
             {
                 // Arrange
                 ProfilePageMentee user = new ProfilePageMentee();
@@ -53,6 +53,6 @@ namespace unit_test_mentor
                 // Assert
                 Assert.IsTrue(result);
             }
-
+       */
     }
 }
